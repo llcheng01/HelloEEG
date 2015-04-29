@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/johnny/AndroidStudioProjects/HelloEEG/app/ThinkGear.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b4f0f0a355dcc5315e5bef25b775beaa52b2d208">
+        <dex dex="/home/johnny/AndroidStudioProjects/HelloEEG/app/build/intermediates/pre-dexed/debug/ThinkGear-81f42b7d64eb0b318b07eed6bd219e66710516fc.jar" />
+    </item>
+
+</items>

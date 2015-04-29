@@ -1,0 +1,2 @@
+/home/johnny/AndroidStudioProjects/HelloEEG/app/build/intermediates/classes/debug
+/home/johnny/AndroidStudioProjects/HelloEEG/app/build/intermediates/pre-dexed/debug/ThinkGear-81f42b7d64eb0b318b07eed6bd219e66710516fc.jar
